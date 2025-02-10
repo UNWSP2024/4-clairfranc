@@ -1,4 +1,4 @@
-Program by Claire Francis, Feb 9, 2025, Week_4_Program_2.py
+#Program by Claire Francis, Feb 9, 2025, Week_4_Program_2.py
 # Program #2: Movie Tix
 # Write a program that has the user input various movie names and how many
 # tickets are desired for each movie.
